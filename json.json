@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "men's shoes Nike Blazer Mid Suede",
+      "price": 12999,
+      "imageUrl": "/img/sneackers/sneackers1.svg"
+    },
+    {
+      "id": 2,
+      "title": "men's shoes Nike Air Max 270",
+      "price": 12999,
+      "imageUrl": "/img/sneackers/sneackers2.svg"
+    },
+    {
+      "id": 3,
+      "title": "men's shoes Nike Blazer Mid Suede",
+      "price": 8499,
+      "imageUrl": "/img/sneackers/sneackers3.svg"
+    },
+    {
+      "id": 4,
+      "title": "men's shoes Puma X Aka Boku Future Rider",
+      "price": 8999,
+      "imageUrl": "/img/sneackers/sneackers4.svg"
+    },
+    {
+      "id": 5,
+      "title": "men's shoes Under Armor Curry 8",
+      "price": 15199,
+      "imageUrl": "/img/sneackers/sneackers5.svg"
+    },
+    {
+      "id": 6,
+      "title": "men's shoes Nike Kyrie 7",
+      "price": 11299,
+      "imageUrl": "/img/sneackers/sneackers6.svg"
+    },
+    {
+      "id": 7,
+      "title": "men's shoes Jordan Air Jordan 11",
+      "price": 10799,
+      "imageUrl": "/img/sneackers/sneackers7.svg"
+    }
+  ]
